@@ -1,6 +1,6 @@
 #! /bin/bash
 # numbers.sh
-# Stacy Cappelloni
+# Stacy Cappelloni  
 
 echo "Enter a positive number: "
 read NUMBER
