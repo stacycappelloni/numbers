@@ -4,7 +4,7 @@
 3. Email: cappelloni@chapman.edu
 4. Class: CPSC 298-01
 5. Assignment: numbers 
-
+ 
 ## Application Purpose
 A bash script named “numbers.sh” that will 
 - prompt a user to type a positive integer 
