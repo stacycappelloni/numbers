@@ -1,5 +1,5 @@
 #! /bin/bash
-# numbers.sh
+# numbers.sh   
 # Stacy Cappelloni  
 
 echo "Enter a positive number: "
