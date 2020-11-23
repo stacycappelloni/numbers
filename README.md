@@ -1,4 +1,4 @@
-## Identifying Information: 
+## Identifying Information:  
 1. Name: Stacy Cappelloni 
 2. Student ID: 002339576
 3. Email: cappelloni@chapman.edu
