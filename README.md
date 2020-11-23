@@ -1,8 +1,8 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
-4. Class: 
+1. Name: Stacy Cappelloni 
+2. Student ID: 002339576
+3. Email: cappelloni@chapman.edu
+4. Class: CPSC 298-01
 5. Assignment: numbers 
 
 ## Application Purpose
